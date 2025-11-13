@@ -1,4 +1,4 @@
-# 🌍 Symphony of Survival  
+# 🌍 Symphony of Survival (more to be edited)
 
 [![JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Google Earth Engine](https://img.shields.io/badge/Powered%20by-Google%20Earth%20Engine-34A853?logo=googleearth&logoColor=white)](https://earthengine.google.com/)
